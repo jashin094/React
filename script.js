@@ -1,0 +1,1 @@
+const nulla = 0;
